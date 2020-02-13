@@ -6,8 +6,9 @@ redirect_from:
   - /contact.html
 ---
 
+##Contact
 
-*Mailing Address:*
+**Mailing Address:**
 
 Department of Economics 
 
@@ -15,6 +16,6 @@ Department of Economics
 
 Berkeley, CA 94720
 
-*Email:*
+**Email:**
 
 skancherla [at] berkeley [dot] edu
