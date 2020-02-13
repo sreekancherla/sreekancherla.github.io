@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Contact
+## Contact
 
 **Mailing Address:**
 
