@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Contact"
-excerpt: "Contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
+redirect_from:
+  - /contact
   - /contact.html
 ---
 
