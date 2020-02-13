@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economics Ph.D. candidate at UC Berkeley, with research fields in public and labor economics. In my research, I principally focus on labor market effects of the US tax, transfer, and social insurance system.
+I'm a Ph.D. candidate in the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley, with research fields in public and labor economics. In my research, I principally focus on labor market effects of the US tax, transfer, and social insurance system.
 
-Click [here](/files/srk_cv.pdf) for my CV.
+Click [here](/files/srk_cv.pdf) for my CV (last update: Feb 2020).
 
