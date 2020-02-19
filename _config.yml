@@ -84,7 +84,7 @@ author:
   avatar           : "srk_ki_default.jpg"
   bio              : "Ph.D. Candidate in Economics, UC Berkeley"
   location         : "Berkeley, CA"
-  employer         : "University of California, Berkeley"
+  employer         : #"University of California, Berkeley"
   pubmed           : #
   googlescholar    : #
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sreekancherla"
+  github           : #"sreekancherla"
   google_plus      :
   keybase          :
   instagram        :
