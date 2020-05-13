@@ -8,6 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Fall 2020
+## Econ 131: Undergraduate Public Economics (Fall 2020)
 
-**Econ 131: Public Economics**
+
