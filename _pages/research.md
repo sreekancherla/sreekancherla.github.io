@@ -12,6 +12,6 @@ redirect_from:
 
 **The Disposition Effect and the Character of Reference Dependence: Theory and Evidence** (with [Youssef Benzarti](https://www.benzarti.com/), [Alex Gelber](https://users.nber.org/~agelber/), [Daniel Reck](https://www.danreck.com/), [Alisa Tazhitinova](https://alisatns.weebly.com/), and Pat Langetieg)
 
-**Economic Impacts of Job Loss** (with [Jesse Rothstein](https://eml.berkeley.edu/~jrothst/) and [Till von Wachter]http://www.econ.ucla.edu/tvwachter/))
+**Economic Impacts of Job Loss** (with [Jesse Rothstein](https://eml.berkeley.edu/~jrothst/) and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))
 
 **Borrowing Responses to Job Transitions** (with [Nick Flamang](https://www.econ.berkeley.edu/grad/profiles/11275))
