@@ -14,4 +14,4 @@ redirect_from:
 
 **Economic Impacts of Job Loss** (with [Jesse Rothstein](https://eml.berkeley.edu/~jrothst/) and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))
 
-**Borrowing Responses to Job Transitions** (with [Nick Flamang](nickflamang.github.io))
+**Borrowing Responses to Job Transitions** (with [Nick Flamang](https://nickflamang.github.io))
