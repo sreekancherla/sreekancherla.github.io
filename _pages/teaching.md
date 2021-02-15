@@ -10,4 +10,6 @@ redirect_from:
 
 ## Econ 131: Undergraduate Public Economics (Fall 2020)
 
+All section materials for this course are hosted on bCourses [[link](https://bcourses.berkeley.edu/courses/1497565)].
+
 
