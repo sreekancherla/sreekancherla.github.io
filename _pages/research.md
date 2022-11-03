@@ -8,12 +8,14 @@ redirect_from:
 
 {% include base_path %}
 
+## Working papers
+
+**Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions** (with [Nick Flamang](https://nickflamang.github.io/))
+[*draft*](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)
+
 ## Selected work in progress
 
 **Short and Long Term Capital Gains** (with [Alisa Tazhitinova](https://alisatns.weebly.com/))
-
-**Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions** (with [Nick Flamang](https://nickflamang.github.io/))
-[draft](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)
 
 **Causes, Scope, and Consequences of Worker Misclassification** (with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))
 
