@@ -11,7 +11,7 @@ redirect_from:
 ## Working papers
 
 **Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions** (with [Nick Flamang](https://nickflamang.github.io/))
-[[*draft*]](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)
+[[**draft**]](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)
 
 ## Selected work in progress
 
