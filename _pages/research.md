@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Working papers
+## Working papers
 
 [**Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions**](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf) (with [Nick Flamang](https://nickflamang.github.io/))
 
@@ -18,7 +18,7 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 </details>
 
-# Selected work in progress
+## Selected work in progress
 
 **Short and Long Term Capital Gains** (with [Alisa Tazhitinova](https://alisatns.weebly.com/))
 
