@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sreeraahul Kancherla"
+title: ""
 excerpt: "About me"
 author_profile: false
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Bio Image](/images/srk_ki_default.jpg "Bio Image")
+<img src="/images/srk_ki_default.jpg" width="30%" align="left"/>
 
 I'm a Ph.D. candidate in the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley, with research fields in public and labor economics. My research generally analyzes ways in which the US tax, transfer, and social insurance system has shaped worker-firm labor market dynamics. My ongoing projects examine the extent to which workers understand and make use of public policies that mitigate income volatility, with particular attention to independent contracting and unemployment insurance policies in the US.
 
