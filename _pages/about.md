@@ -17,3 +17,31 @@ I'm a Ph.D. candidate in the [Department of Economics](https://www.econ.berkeley
 If you're also interested in these research topics and would like to chat, please [get in touch!](https://sreekancherla.github.io/contact/)
 
 Click [here](/files/srk_cv.pdf) for my CV (last updated: Feb 2021).
+
+</div>
+</div>
+<style>
+  .photo {
+    display: block;
+    max-width: 50%;
+    margin: 0 20px;
+  }
+
+  .flex {
+    display: flex;
+    max-width: 900px;
+    margin: auto;
+    align-items: center;
+  }
+
+  @media (max-width: 600px){
+    .flex {
+      flex-direction: column;
+    }
+    .photo {
+    max-width: 100%;
+    margin-bottom: 20px;
+    }
+
+  }
+  </style>
