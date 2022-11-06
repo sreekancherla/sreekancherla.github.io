@@ -21,7 +21,7 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
+  follow_label               : ""
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
@@ -69,7 +69,7 @@ es: &DEFAULT_ES
   comments_title             :
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
-  follow_label               : "Seguir:"
+  follow_label               : ""
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
@@ -113,7 +113,7 @@ fr: &DEFAULT_FR
   comments_title             :
   more_label                 : "Lire plus"
   related_label              : "Vous pourriez aimer"
-  follow_label               : "Suivez moi"
+  follow_label               : ""
   feed_label                 : "Flux"
   powered_by                 : "Propulsé par"
   website_label              : "Site"
@@ -159,7 +159,7 @@ tr: &DEFAULT_TR
   comments_title             :
   more_label                 : "Daha fazlasını öğrenin"
   related_label              : "Bunlar ilginizi çekebilir:"
-  follow_label               : "Takip et:"
+  follow_label               : ""
   feed_label                 : "RSS"
   powered_by                 : "Emeği geçenler: "
   website_label              : "Web sayfası"
@@ -201,7 +201,7 @@ pt: &DEFAULT_PT
   comments_title             :
   more_label                 : "Aprenda Mais"
   related_label              : "Talvez Você Goste Também"
-  follow_label               : "Acompanhe em"
+  follow_label               : ""
   feed_label                 : "Feed"
   powered_by                 : "Feito por"
   website_label              : "Site"
@@ -245,7 +245,7 @@ it: &DEFAULT_IT
   comments_title             :
   more_label                 : "Scopri di più"
   related_label              : "Potrebbe Piacerti Anche"
-  follow_label               : "Segui:"
+  follow_label               : ""
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
