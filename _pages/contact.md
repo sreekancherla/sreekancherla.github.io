@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-author_profile: true
+author_profile: false
 redirect_from:
   - /contact
   - /contact.html
