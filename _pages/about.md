@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Sreeraahul Kancherla"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
