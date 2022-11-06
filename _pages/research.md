@@ -17,6 +17,12 @@ redirect_from:
 programs in late 2021. We find that almost all of the pandemic elasticity drop is attributable to UI expansions. Our two designs are qualitatively robust to placebo tests on plausibly unaffected credit types, potential demand-side responses for increased credit, and alternate estimation specifications. In a back-of-the-envelope calculation, we calculate that UI expansions thus prevented about 59% of
 total potential delinquency-months. Taken together, these results imply that federal UI expansions have had a substantially stabilizing effect during the Covid-19 pandemic. Our findings thus provide powerful empirical support for a largely theoretical body of research on the role of UI as an automatic stabilizer of aggregate economic conditions.
 
+<p float="left">
+  <img src="/images/ui_dq_geo.jpg" width="30%" />
+  <img src="/images/ui_dq_geo.jpg" width="30%" /> 
+  <img src="/images/ui_dq_geo.jpg" width="30%" />
+</p>
+
 ## Selected work in progress
 
 **Short and Long Term Capital Gains** (with [Alisa Tazhitinova](https://alisatns.weebly.com/))
