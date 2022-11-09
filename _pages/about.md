@@ -13,4 +13,4 @@ I'm a Ph.D. candidate in the [Department of Economics](https://www.econ.berkeley
 
 If you're also interested in these research topics and would like to chat, please [get in touch!](https://sreekancherla.github.io/contact/)
 
-Click [here](/files/srk_cv.pdf) for my CV (last updated: Feb 2021).
+Click [here](/files/srk_cv.pdf) for my CV (last updated: Nov 2022).
