@@ -24,7 +24,7 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 **Causes, Scope, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits** (with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))
 
-**Revisiting Liquidity Provision** (with [Nick Flamang](https://nickflamang.github.io/))
+**Unemployed Worker Liquidity, Job Search, and Reemployment Outcomes** (with [Nick Flamang](https://nickflamang.github.io/)) 
 
 <!--**Independent Contracting And Earnings Volatility** (with [Jesse Rothstein](https://eml.berkeley.edu/~jrothst/) and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))-->
 
