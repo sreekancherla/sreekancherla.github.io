@@ -20,7 +20,7 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 <br>
 
-**Understanding Capital Gains Responses to Taxes using Transaction-Level Data** (with [Alisa Tazhitinova](https://alisatns.weebly.com/)) [**NBER SI draft**](https://conference.nber.org/conf_papers/f186463.pdf)
+**Understanding Capital Gains Responses to Taxes using Transaction-Level Data** (with [Alisa Tazhitinova](https://alisatns.weebly.com/)) [*NBER SI draft*](https://conference.nber.org/conf_papers/f186463.pdf)
 
 <details><summary><i>Abstract</i></summary>
 
