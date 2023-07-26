@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/srk_ki_default.jpg" width="40%" align="left" style="float: left; margin-right: 15px;"/>
-I'm a Ph.D. candidate in the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley, with research fields in public and labor economics. My research generally analyzes ways in which the US tax, transfer, and social insurance system has shaped worker-firm labor market dynamics. My ongoing projects examine the extent to which workers understand and make use of public policies that mitigate income volatility, with particular attention to independent contracting and unemployment insurance policies in the US.
+<img src="/images/sree_2023_0617_far_cropped2.jpg" width="40%" align="left" style="float: left; margin-right: 15px;"/>
+I am a Ph.D. candidate in the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley, with research fields in public and labor economics. My research agenda generally analyzes ways in which the US tax, transfer, and social insurance system has shaped income, inequality, and labor market dynamics. A key emphasis of this research is to understand the ways in which workers respond to income shocks, with a particular focus on unemployment and job search. Some of my other projects study capital gains taxation, independent contracting, and tax enforcement.
 
 If you're also interested in these research topics and would like to chat, please [get in touch!](https://sreekancherla.github.io/contact/)
 
-Click [here](/files/srk_cv.pdf) for my CV (last updated: Nov 2022).
+Click [here](/files/srk_cv.pdf) for my CV (last updated: July 2023).
 
 
