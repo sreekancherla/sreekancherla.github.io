@@ -30,7 +30,7 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 ## Selected work in progress
 
-**Unemployed Worker Liquidity, Job Search, and Reemployment Outcomes** (with [Nick Flamang](https://nickflamang.github.io/))
+**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (with [Nick Flamang](https://nickflamang.github.io/))
 
 **Causes, Scope, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits** (with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/)) 
 
