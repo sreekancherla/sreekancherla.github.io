@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working papers
 
-**Understanding Capital Gains Responses to Taxes using Transaction-Level Data** (with [Alisa Tazhitinova](https://alisatns.weebly.com/)) 
+**Understanding Capital Gains Responses to Taxes using Transaction-Level Data** (with [Alisa Tazhitdinova](https://alisatns.weebly.com/)) 
 [*Working paper*](https://conference.nber.org/conf_papers/f186463.pdf)
 
 <details><summary><i>Abstract</i></summary>
