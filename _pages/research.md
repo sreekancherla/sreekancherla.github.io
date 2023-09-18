@@ -10,12 +10,12 @@ redirect_from:
 
 ## Working papers
 
-**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (JMP) 
+**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (JMP)  
 (with [Nick Flamang](https://nickflamang.github.io/))
 *Draft coming soon*
 
 
-**Understanding Capital Gains Responses to Taxes using Transaction-Level Data** 
+**Understanding Capital Gains Responses to Taxes using Transaction-Level Data**  
 (with [Alisa Tazhitdinova](https://alisatns.weebly.com/)) 
 [*Working paper*](https://conference.nber.org/conf_papers/f186463.pdf)
 
@@ -26,7 +26,7 @@ We study how individuals’ trading behavior responds to tax incentives using ad
 </details>
 <br>
 
-**Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions** 
+**Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions**  
 (with [Nick Flamang](https://nickflamang.github.io/)) [*Working paper*](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)
 
 <details><summary><i>Abstract</i></summary>
@@ -37,10 +37,10 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 ## Selected work in progress
 
-**Causes, Scope, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**
+**Causes, Scope, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits** 
 (with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/)) 
 
-**Implicit Insurance in the United States**
+**Implicit Insurance in the United States**  
  (with [Carl McPherson](https://carlmcpherson.github.io/) and [Matt Unrath](https://www.mattunrath.com/))
 
 <!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
