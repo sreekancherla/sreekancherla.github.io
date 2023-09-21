@@ -17,7 +17,7 @@ redirect_from:
 
 **Understanding Capital Gains Responses to Taxes using Transaction-Level Data**  
 (with [Alisa Tazhitdinova](https://alisatns.weebly.com/)) 
-[*Working paper*](https://conference.nber.org/conf_papers/f186463.pdf)
+[*Working paper*](</files/Understanding Capital Gains Responses to Taxation - Kancherla and Tazhitdinova.pdf>)
 
 <details><summary><i>Abstract</i></summary>
 
