@@ -15,7 +15,7 @@ classes: wide
 <small>(with [Nick Flamang](https://nickflamang.github.io/))</small><br />
 <small>[<a href="#/" onclick="visib('abstract_uidelays')">Abstract</a>]</small>
 
-<div id="abstract_uidelays" style="display: none; text-align: justify; line-height: 110% ><small>
+<div id="abstract_uidelays" style="display: none; text-align: justify; line-height: 110%" ><small>
 How do differences in cash-on-hand during unemployment affect reemployment and long-term earnings trajectories for job seekers? We provide new evidence by examining plausibly random delays in unemployment insurance (UI) benefit payments-- which provide high-frequency, wealth-constant variation in claimants' liquidity during the spell-- during a temporary system glitch at the California UI system in 2013. The median delayed claimant missed two UI payments (~$810) during the glitch and did not receive these payments for about 3 weeks. In the short run, claimants with delayed payments exit UI more quickly, have shorter non-employment spells, and find better reemployment firm matches. These effects are persistent over time: Five years after the system glitch, delayed claimants have higher employment and earnings. These results are consistent with models of job search incorporating duration dependence, where UI induces longer unemployment spells that reduce reemployment rates and future wages.
 </small><br><br/></div>
 
@@ -23,7 +23,7 @@ How do differences in cash-on-hand during unemployment affect reemployment and l
 <small>(with [Alisa Tazhitdinova](https://alisatns.weebly.com/))</small><br />
 <small>[<a href="#/" onclick="visib('abstract_capgains')">Abstract</a> | [Draft][draft_capgains]]</small>
 
-<div id="abstract_capgains" style="display: none; text-align: justify; line-height: 100% ><small>
+<div id="abstract_capgains" style="display: none; text-align: justify; line-height: 100%" ><small>
 We study how individuals’ trading behavior responds to tax incentives using administrative transaction-level data on all taxable sales of broker-traded, directly held financial assets between 2011 and 2019. Our empirical design leverages a simple, salient, timing-based tax notch: in the U.S., assets held beyond one year qualify for a 10-20 percentage point reduction in capital gains rates. The size and granularity of the data allow us to study how this capital gains tax rate differentiation shapes individuals’ trading behaviors across narrowly defined demographic and income groups. We find that: (1) retiming responses around the tax rate notch are weak in general; (2) individuals make clear misoptimization errors by realizing gains just before the notch; and (3) this pattern can be explained by both heterogeneous capital gains responses by asset type combined with rigidities in individual trading styles. Finally, we use our empirical results to show theoretically that the weak deferral elasticities imply that a revenue-maximizing government would eliminate short- vs long-term tax differentiation.
 </small><br><br/></div>
 
