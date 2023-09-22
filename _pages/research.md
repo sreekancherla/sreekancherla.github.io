@@ -15,18 +15,15 @@ redirect_from:
 *Draft coming soon*
 
 
-**Understanding Capital Gains Responses to Taxes using Transaction-Level Data**  
-(with [Alisa Tazhitdinova](https://alisatns.weebly.com/)) 
-[*Working paper*](</files/Understanding Capital Gains Responses to Taxation - Kancherla and Tazhitdinova.pdf>)
-
-<small>[ <a href="#/" onclick="visib('capgains')">Abstract</a>  | [Draft][nber_si_2023hf] ] </small>
+**Understanding Capital Gains Responses to Taxes using Transaction-Level Data**<br />
+(with [Alisa Tazhitdinova](https://alisatns.weebly.com/))<br />
+<small>[ <a href="#/" onclick="visib('capgains')">Abstract</a> | [Draft][nber_si_2023hf] ] </small>
 
 <div id="capgains" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study how individuals’ trading behavior responds to tax incentives using administrative transaction-level data on all taxable sales of broker-traded, directly held financial assets between 2011 and 2019. Our empirical design leverages a simple, salient, timing-based tax notch: in the U.S., assets held beyond one year qualify for a 10-20 percentage point reduction in capital gains rates. The size and granularity of the data allow us to study how this capital gains tax rate differentiation shapes individuals’ trading behaviors across narrowly defined demographic and income groups. We find that: (1) retiming responses around the tax rate notch are weak in general; (2) individuals make clear misoptimization errors by realizing gains just before the notch; and (3) this pattern can be explained by both heterogeneous capital gains responses by asset type combined with rigidities in individual trading styles. Finally, we use our empirical results to show theoretically that the weak deferral elasticities imply that a revenue-maximizing government would eliminate short- vs long-term tax differentiation.
 </small><br><br/></div>
 
 [nber_si_2023hf]: </files/Understanding Capital Gains Responses to Taxation - Kancherla and Tazhitdinova.pdf>
-
 
 **Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions**  
 (with [Nick Flamang](https://nickflamang.github.io/)) [*Working paper*](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)
@@ -50,3 +47,5 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 <!--**Independent Contracting And Earnings Volatility** (with [Jesse Rothstein](https://eml.berkeley.edu/~jrothst/) and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))-->
 
 <!--**The Disposition Effect and the Character of Reference Dependence: Theory and Evidence** (with [Youssef Benzarti](https://www.benzarti.com/), [Alex Gelber](https://users.nber.org/~agelber/), [Daniel Reck](https://www.danreck.com/), [Alisa Tazhitinova](https://alisatns.weebly.com/), and [Pat Langetieg](https://www.nber.org/people/patrick_langetieg))-->
+
+[//]: This java script is the button to show abstract
