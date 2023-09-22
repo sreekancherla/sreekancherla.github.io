@@ -4,6 +4,7 @@ author_profile: false
 redirect_from:
   - /research
   - /research.html
+classes: wide
 ---
 
 {% include base_path %}
@@ -35,7 +36,6 @@ We study how individuals’ trading behavior responds to tax incentives using ad
 
 [covid_ui_credit_wp]: </files/Understanding Capital Gains Responses to Taxation - Kancherla and Tazhitdinova.pdf>
 
-
  [*Working paper*](/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)
 
 <details><summary><i>Abstract</i></summary>
@@ -59,3 +59,15 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 <!--**The Disposition Effect and the Character of Reference Dependence: Theory and Evidence** (with [Youssef Benzarti](https://www.benzarti.com/), [Alex Gelber](https://users.nber.org/~agelber/), [Daniel Reck](https://www.danreck.com/), [Alisa Tazhitinova](https://alisatns.weebly.com/), and [Pat Langetieg](https://www.nber.org/people/patrick_langetieg))-->
 
 [//]: This java script is the button to show abstract
+ <script>
+  function visib(id) {
+   var x = document.getElementById(id);
+   if (x.style.display === "block") {
+     x.style.display = "none";
+   } else {
+     x.style.display = "block";
+   }
+ }
+ </script>
+
+ [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
