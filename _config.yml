@@ -202,6 +202,7 @@ defaults:
       comments: false
       share: false
       related: false
+      class: wide
   # _pages
   - scope:
       path: ""
@@ -209,6 +210,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      class: wide
   # _teaching
   - scope:
       path: ""
@@ -227,6 +229,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      class: wide
 
 # Sass/SCSS
 sass:
