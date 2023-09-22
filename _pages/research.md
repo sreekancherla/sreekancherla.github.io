@@ -42,10 +42,10 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 ## Selected work in progress
 
 **Causes, Scope, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
-(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/)) 
+<small>(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))</small>
 
 **Implicit Insurance in the United States**<br />
- (with [Carl McPherson](https://carlmcpherson.github.io/) and [Matt Unrath](https://www.mattunrath.com/))
+<small>(with [Carl McPherson](https://carlmcpherson.github.io/) and [Matt Unrath](https://www.mattunrath.com/))</small>
 
 <!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
 
