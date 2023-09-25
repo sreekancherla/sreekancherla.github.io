@@ -13,7 +13,7 @@ classes: wide
 
 **Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (*JMP, draft coming soon*)<br />
 <small>(with [Nick Flamang](https://nickflamang.github.io/))</small><br />
-<small>[<a href="#/" onclick="visib('abstract_uidelays')">Abstract</a>]</small>
+<small>[<a href="#/" onclick="visib('abstract_uidelays')">View Abstract</a>]</small>
 
 <div id="abstract_uidelays" style="display: none; text-align: justify; line-height: 100%" ><small>
 How do differences in cash-on-hand during unemployment affect reemployment and long-term earnings trajectories for job seekers? We provide new evidence by examining plausibly random delays in unemployment insurance (UI) benefit payments-- which provide high-frequency, wealth-constant variation in claimants' liquidity during the spell-- during a temporary system glitch at the California UI system in 2013. The median delayed claimant missed two UI payments (~$810) during the glitch and did not receive these payments for about 3 weeks. In the short run, claimants with delayed payments exit UI more quickly, have shorter non-employment spells, and find better reemployment firm matches. These effects are persistent over time: Five years after the system glitch, delayed claimants have higher employment and earnings. These results are consistent with models of job search incorporating duration dependence, where UI induces longer unemployment spells that reduce reemployment rates and future wages.
@@ -21,7 +21,7 @@ How do differences in cash-on-hand during unemployment affect reemployment and l
 
 **Understanding Capital Gains Responses to Taxes using Transaction-Level Data**<br />
 <small>(with [Alisa Tazhitdinova](https://alisatns.weebly.com/))</small><br />
-<small>[<a href="#/" onclick="visib('abstract_capgains')">Abstract</a> | [Draft][draft_capgains]]</small>
+<small>[<a href="#/" onclick="visib('abstract_capgains')">View Abstract</a> | [Draft][draft_capgains]]</small>
 
 <div id="abstract_capgains" style="display: none; text-align: justify; line-height: 100%" ><small>
 We study how individuals’ trading behavior responds to tax incentives using administrative transaction-level data on all taxable sales of broker-traded, directly held financial assets between 2011 and 2019. Our empirical design leverages a simple, salient, timing-based tax notch: in the U.S., assets held beyond one year qualify for a 10-20 percentage point reduction in capital gains rates. The size and granularity of the data allow us to study how this capital gains tax rate differentiation shapes individuals’ trading behaviors across narrowly defined demographic and income groups. We find that: (1) retiming responses around the tax rate notch are weak in general; (2) individuals make clear misoptimization errors by realizing gains just before the notch; and (3) this pattern can be explained by both heterogeneous capital gains responses by asset type combined with rigidities in individual trading styles. Finally, we use our empirical results to show theoretically that the weak deferral elasticities imply that a revenue-maximizing government would eliminate short- vs long-term tax differentiation.
@@ -31,7 +31,7 @@ We study how individuals’ trading behavior responds to tax incentives using ad
 
 **Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions**<br />
 <small>(with [Nick Flamang](https://nickflamang.github.io/))</small><br />
-<small>[<a href="#/" onclick="visib('abstract_covid_ui_credit')">Abstract</a> | [Draft][draft_covid_ui_credit]] </small>
+<small>[<a href="#/" onclick="visib('abstract_covid_ui_credit')">View Abstract</a> | [Draft][draft_covid_ui_credit]] </small>
 
 <div id="abstract_covid_ui_credit" style="display: none; text-align: justify; line-height: 100%" ><small>
 To what extent does unemployment insurance (UI) attenuate aggregate financial responses to unemployment shocks? We answer this question using administrative credit bureau records and the unprecedented changes in unemployment and UI generosity during the Covid-19 pandemic. We first find that aggregate sensitivity to the unemployment rate decreased by 50% for auto loans and 66% for credit cards between January 2017 and March 2021. To isolate the effect of UI from other contemporaneous policies shifting unemployment shock responsiveness, we employ a staggered event study design around state-level withdrawals from federal UI programs in late 2021. We find that almost all of the pandemic sensitivity drop is attributable to UI expansions. Our two designs are qualitatively robust to placebo tests on plausibly unaffected credit types, potential demand-side responses for increased credit, and alternate estimation specifications. In a back-of-the-envelope calculation, we calculate that UI expansions prevented about 59% of total potential delinquency-months. Taken together, these results imply that federal UI expansions have had a substantially stabilizing effect during the Covid-19 pandemic. Our findings thus provide powerful empirical support for a largely theoretical body of research on the role of UI as an automatic stabilizer of aggregate economic conditions.
