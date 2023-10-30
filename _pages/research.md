@@ -41,11 +41,21 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 ## Selected work in progress
 
-**Causes, Scope, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
-<small>(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))</small>
+**The Scope, Causes, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
+<small>(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))</small><br />
+<small>*Approved, US Treasury*</small><br />
+<small>[<a href="#/" onclick="visib('abstract_wmc')">View Abstract</a>]</small>
+<div id="abstract_wmc" style="display: none; text-align: justify; line-height: 100%" ><small>
+Worker misclassification—wherein firms erroneously represent their workers’ employment status for tax purposes, typically listing wage employees as independent contractors—is a large and growing problem in employment tax compliance, with meaningful costs to both individual workers and the tax system. Misclassified workers are thought to have lower earnings, rates of health insurance coverage, and retirement contributions (Jackson et al, 2017). At the same time, only about 55% of independent contractors correctly remit self-employment taxes, which meaningfully contributes to the employment tax gap. The problem is prevalent and growing: in 2000, about 30% of audited firms misclassified at least one worker, and the fraction of misclassified workers has increased by about 300% between 2000 and 2019 (GAO 2009; ETA Reports 581). Using randomized audit data from the National Research Program’s Employment Tax Study (ETS), we examine four main questions: (1) how often do audits uncover worker misclassification, and how does this vary by firm or worker characteristics; (2) what is the short-term compliance effect of audits on affected workers’ classification; (3) do the audits have long-term impacts on worker classification and outcomes; and (4) does the risk of being audited impact the behavior of non-audited firms? </small><br><br/></div>
 
-**Implicit Insurance in the United States**<br />
-<small>(with [Carl McPherson](https://carlmcpherson.github.io/) and [Matt Unrath](https://www.mattunrath.com/))</small>
+**Implicit Insurance from Job Loss in the United States**<br />
+<small>(with [Carl McPherson](https://carlmcpherson.github.io/) and [Matt Unrath](https://www.mattunrath.com/))</small><br />
+<small>*Approved, US Census Bureau*</small><br />
+<small>[<a href="#/" onclick="visib('abstract_job_loss_implicit_insurance')">View Abstract</a>]</small>
+<div id="abstract_job_loss_implicit_insurance" style="display: none; text-align: justify; line-height: 100%" ><small>
+We study the joint effects of the tax system, government transfers, and self-insurance in mitigating earnings losses from job loss using data on social safety benefit receipt linked to tax records. Transfer payments imply smaller income losses relative to wage losses; behavioral responses (asset liquidation, self-employment, income misreporting, family members’ labor supply) mitigate household income losses relative to worker income losses; and progressive tax rates imply smaller after-tax income losses relative to pre-tax income losses. By estimating these effects in a single dataset, we integrate the tax system, transfer payments, and household responses into a single joint measure of household and government insurance against job loss.
+</small><br><br/></div>
+
 
 <!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
 
