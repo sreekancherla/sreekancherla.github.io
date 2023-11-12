@@ -11,7 +11,7 @@ classes: wide
 
 ## Working papers
 
-**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (*JMP, draft coming soon*)<br />
+**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (*JMP, undergoing review -- email for draft*)<br />
 <small>(with [Nick Flamang](https://nickflamang.github.io/))</small><br />
 <small>[<a href="#/" onclick="visib('abstract_uidelays')">View Abstract</a>]</small>
 
