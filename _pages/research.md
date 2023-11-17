@@ -21,7 +21,7 @@ How do differences in job seekers' liquidity during unemployment affect their re
 
 [draft_uidelays]: </files/UI_Delays_and_Job_Search_Kancherla_JMP.pdf>
 
-## Working papers
+## Other Working Papers
 
 **Understanding Capital Gains Responses to Taxes using Transaction-Level Data**<br />
 <small>(with [Alisa Tazhitdinova](https://alisatns.weebly.com/))</small><br />
@@ -43,7 +43,7 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 [draft_covid_ui_credit]: </files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf>
 
-## Selected work in progress
+## Selected Work in Progress
 
 **The Scope, Causes, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
 <small>(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))</small><br />
