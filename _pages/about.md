@@ -15,6 +15,6 @@ I am a Ph.D. candidate in the [Department of Economics](https://www.econ.berkele
 
 <!--If you're also interested in these research topics and would like to chat, please [get in touch!](https://sreekancherla.github.io/contact/)-->
 
-Click [here](/files/CV_Kancherla.pdf) for my CV (last updated: November 2023).
+Click [here](/files/CV_Kancherla.pdf) for my CV (last updated: November 2023). Email: skancherla@berkeley.edu
 
 
