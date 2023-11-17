@@ -11,13 +11,15 @@ classes: wide
 
 ## Working papers
 
-**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (*JMP, undergoing review -- email for draft*)<br />
+**Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment** (*JMP*)<br />
 <small>(with [Nick Flamang](https://nickflamang.github.io/))</small><br />
-<small>[<a href="#/" onclick="visib('abstract_uidelays')">View Abstract</a>]</small>
+<small>[<a href="#/" onclick="visib('abstract_uidelays')">View Abstract</a> | [Draft][draft_uidelays]]</small>
 
 <div id="abstract_uidelays" style="display: none; text-align: justify; line-height: 100%" ><small>
-How do differences in cash-on-hand during unemployment affect reemployment and long-term earnings trajectories for job seekers? We provide new evidence by examining plausibly random delays in unemployment insurance (UI) benefit payments-- which provide high-frequency, wealth-constant variation in claimants' liquidity during the spell-- during a temporary system glitch at the California UI system in 2013. The mean claimant had \$825 in UI benefits delayed (2.6 weeks of benefits) during the glitch, and waited an average of 34 days before being fully compensated. In the short run, claimants with delayed payments exit UI more quickly, have shorter non-employment spells, and find better re-employment firm matches. These effects are persistent over time: Five years after the system glitch, delayed claimants have higher employment and earnings. These results are consistent with models of job search incorporating duration dependence, where UI induces longer unemployment spells that reduce re-employment rates and future wages.
+How do differences in job seekers' liquidity during unemployment affect their reemployment and long-term earnings trajectories? We provide new evidence by examining delays in unemployment insurance (UI) benefit payments, which create high-frequency variation in claimants' cash-on-hand: delays shift the timing of benefits, but not the total amount of benefits received. We utilize administrative delays resulting from a 2013 California system glitch that affected UI benefit payment timing, but only for a subset of active claimants. Our research design compares claimants plausibly randomly delayed during the outage to unaffected claimants after matching on a rich set of demographics, earnings histories, and pre-outage claim histories to minimize pre-treatment differences. The mean delayed claimant had $825 in UI benefits delayed (2.6 weeks of benefits) during the glitch, and waited an average of 34 days before being fully compensated. In the short run, claimants with delayed payments exit UI earlier, are employed faster, and find better reemployment firm matches. Moreover, these effects are highly persistent over time: even five years after the system glitch, delayed claimants have higher employment and earnings. We find novel evidence that these effects are largest among claimants affected early into their unemployment spell. Taken together, these results are consistent with a model of job search incorporating duration dependence, where UI induces longer unemployment spells that reduce reemployment rates and future wages. 
 </small><br><br/></div>
+
+[draft_uidelays]: </files/UI_Delays_and_Job_Search_Kancherla_JMP.pdf>
 
 **Understanding Capital Gains Responses to Taxes using Transaction-Level Data**<br />
 <small>(with [Alisa Tazhitdinova](https://alisatns.weebly.com/))</small><br />
