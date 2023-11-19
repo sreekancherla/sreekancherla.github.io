@@ -73,10 +73,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-21VSM7LQ49
-
+    tracking_id          : "G-21VSM7LQ49"
+    anonymize_ip         : false # default
 
 # Site Author
 author:
