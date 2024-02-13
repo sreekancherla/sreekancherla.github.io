@@ -58,7 +58,6 @@ Worker misclassification—wherein firms erroneously represent their workers’ 
 <small>[<a href="#/" onclick="visib('abstract_job_loss_implicit_insurance')">Click to View Abstract</a>]</small>
 <div id="abstract_job_loss_implicit_insurance" style="display: none; text-align: justify; line-height: 100%" ><small>
 We study the joint effects of the tax system, government transfers, and self-insurance in mitigating earnings losses from job loss. Transfer payments imply smaller income losses relative to wage losses; behavioral responses (asset liquidation, self-employment, income misreporting, family members’ labor supply) mitigate household income losses relative to worker income losses; and progressive tax rates imply smaller after-tax income losses relative to pre-tax income losses. We leverage a novel merge between social safety net benefit takeup in 42 US states to population tax returns and earnings data to estimate these various margins of response in a single dataset. In doing so, we will be able to integrate the tax system, transfer payments, and household responses into a net measure of household and government insurance against job loss.
-test
 </small><br><br/></div>
 
 
