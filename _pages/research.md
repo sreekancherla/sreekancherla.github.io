@@ -45,6 +45,10 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 ## Selected Work in Progress
 
+**Inventors and the Unemployment Insurance System**<br />
+<small>(with [Alex Bell](https://alexbell.net/)</small><br />
+<small>*Draft coming soon!*</small><br />
+
 **The Scope, Causes, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
 <small>(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))</small><br />
 <small>*Approved project, US Treasury Office of Tax Analysis*</small><br />
