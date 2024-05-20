@@ -13,4 +13,4 @@ I am a Ph.D. candidate in Economics at UC Berkeley, with research fields in publ
 
 In Fall 2024, I will join the US Treasury Office of Tax Analysis.
 
-Click [here](/files/CV_Kancherla.pdf) for my CV (last update: May 2024). 
+Click [here](/files/srk_cv.pdf) for my CV (last update: May 2024). 
