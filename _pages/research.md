@@ -9,7 +9,7 @@ classes: wide
 
 {% include base_path %}
 
-## Job Market Paper
+## Working Papers
 
 **Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment**<br />
 <small>(with [Nick Flamang](https://nickflamang.github.io/))</small><br />
@@ -20,8 +20,6 @@ How do differences in job seekers' liquidity during unemployment affect their re
 </small><br><br/></div>
 
 [draft_uidelays]: </files/UI_Delays_and_Job_Search_Kancherla_JMP.pdf>
-
-## Other Working Papers
 
 **Understanding Capital Gains Responses to Taxes using Transaction-Level Data**<br />
 <small>(with [Alisa Tazhitdinova](https://alisatns.weebly.com/))</small><br />
