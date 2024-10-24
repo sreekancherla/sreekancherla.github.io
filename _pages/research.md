@@ -61,7 +61,7 @@ We study the joint effects of the tax system, government transfers, and self-ins
 </small><br><br/></div>
 
 **Inventors and the Unemployment Insurance System**<br />
-<small>(with [Alex Bell](https://alexbell.net/)</small><br />
+<small>(with [Alex Bell](https://alexbell.net/))</small><br />
 <small>*Draft coming soon!*</small><br />
 
 <!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
