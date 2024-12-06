@@ -43,6 +43,10 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 ## Selected Work in Progress
 
+**Inventors and the Unemployment Insurance System**<br />
+<small>(with [Alex Bell](https://alexbell.net/))</small><br />
+<small>*Draft coming soon!*</small><br />
+
 **The Scope, Causes, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
 <small>(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))</small><br />
 <small>*Approved project, US Treasury Office of Tax Analysis*</small><br />
@@ -58,9 +62,8 @@ Worker misclassification—wherein firms erroneously represent their workers’ 
 We study the joint effects of the tax system, government transfers, and self-insurance in mitigating earnings losses from job loss. Transfer payments imply smaller income losses relative to wage losses; behavioral responses (asset liquidation, self-employment, income misreporting, family members’ labor supply) mitigate household income losses relative to worker income losses; and progressive tax rates imply smaller after-tax income losses relative to pre-tax income losses. We leverage a novel merge between social safety net benefit takeup in 42 US states to population tax returns and earnings data to estimate these various margins of response in a single dataset. In doing so, we will be able to integrate the tax system, transfer payments, and household responses into a net measure of household and government insurance against job loss.
 </small><br><br/></div>
 
-**Inventors and the Unemployment Insurance System**<br />
-<small>(with [Alex Bell](https://alexbell.net/))</small><br />
-<small>*Draft coming soon!*</small><br />
+**Optimal Audits Using Predictions**<br />
+<small>(with [Aviv Caspi](https://sites.google.com/view/avivcaspi/), [Jacob Goldin](https://sites.google.com/site/jacobsgoldin/), [Daniel Reck](https://www.danreck.com/, and [Daniel E. Ho](https://dho.stanford.edu/))</small><br />
 
 <!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
 
