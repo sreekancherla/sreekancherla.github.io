@@ -63,7 +63,7 @@ We study the joint effects of the tax system, government transfers, and self-ins
 </small><br><br/></div>
 
 **Optimal Audits Using Predictions**<br />
-<small>(with [Aviv Caspi](https://sites.google.com/view/avivcaspi/), [Jacob Goldin](https://sites.google.com/site/jacobsgoldin/), [Daniel Reck](https://www.danreck.com/, and [Daniel E. Ho](https://dho.stanford.edu/))</small><br />
+<small>(with [Aviv Caspi](https://sites.google.com/view/avivcaspi/), [Jacob Goldin](https://sites.google.com/site/jacobsgoldin/), [Daniel Reck](https://www.danreck.com/) and [Daniel E. Ho](https://dho.stanford.edu/))</small><br />
 
 <!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
 
