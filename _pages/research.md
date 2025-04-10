@@ -64,6 +64,12 @@ We study the joint effects of the tax system, government transfers, and self-ins
 **Optimal Audits Using Predictions**<br />
 <small>(with [Aviv Caspi](https://sites.google.com/view/avivcaspi/), [Jacob Goldin](https://sites.google.com/site/jacobsgoldin/), [Daniel Reck](https://www.danreck.com/) and [Daniel E. Ho](https://dho.stanford.edu/))</small><br />
 
+**Who Enters the Nonprofit Sector? Population Evidence from Tax Data**<br />
+<small>(with [Jakob Brounstein](https://jakobbrounstein.github.io/index.html), [Stephanie Karol](https://www.stephanie-a-karol.com/), [Jennifer Mayo](https://www.jennifer-mayo.com/) and [Carl McPherson](https://carlmcpherson.github.io/))</small><br />
+
+<!--**Tax Policy and Business Entry**<br />
+<small>(with [Tobey Kass](https://sites.google.com/umn.edu/tobeykass/home), [Dustin Swonder](https://dustinswonder.github.io/), and [Ian Sapollnik](https://economics.mit.edu/people/phd-students/ian-sapollnik)</small><br />-->
+
 <!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
   
 <!--**Independent Contracting And Earnings Volatility** (with [Jesse Rothstein](https://eml.berkeley.edu/~jrothst/) and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))-->
