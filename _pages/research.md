@@ -64,7 +64,7 @@ We study the joint effects of the tax system, government transfers, and self-ins
 **Optimal Audits Using Predictions**<br />
 <small>(with [Aviv Caspi](https://sites.google.com/view/avivcaspi/), [Jacob Goldin](https://sites.google.com/site/jacobsgoldin/), [Daniel Reck](https://www.danreck.com/) and [Daniel E. Ho](https://dho.stanford.edu/))</small><br />
 
-**Who Enters the Nonprofit Sector? Population Evidence from Tax Data**<br />
+**Reassessing the Nonprofit Earnings Penalty**<br />
 <small>(with [Jakob Brounstein](https://jakobbrounstein.github.io/index.html), [Stephanie Karol](https://www.stephanie-a-karol.com/), [Jennifer Mayo](https://www.jennifer-mayo.com/) and [Carl McPherson](https://carlmcpherson.github.io/))</small><br />
 
 <!--**Tax Policy and Business Entry**<br />
