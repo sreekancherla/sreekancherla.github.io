@@ -43,9 +43,6 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 ## Selected Work in Progress
 
-**Inventors and the Unemployment Insurance System**<br />
-<small>(with [Alex Bell](https://alexbell.net/))</small><br />
-
 **The Scope, Causes, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
 <small>(with [David Coyne](https://www.djcoyne.com/home) and [Ithai Lurie](https://sites.google.com/site/ithaizvilurie/))</small><br />
 <small>[<a href="#/" onclick="visib('abstract_wmc')">Click to View Abstract</a>]</small>
@@ -63,7 +60,10 @@ We study the joint effects of the tax system, government transfers, and self-ins
 <small>(with [Aviv Caspi](https://sites.google.com/view/avivcaspi/), [Jacob Goldin](https://sites.google.com/site/jacobsgoldin/), [Daniel Reck](https://www.danreck.com/) and [Daniel E. Ho](https://dho.stanford.edu/))</small><br />
 
 **Reassessing the Nonprofit Earnings Penalty**<br />
-<small>([Stephanie Karol](https://www.stephanie-a-karol.com/), [Jennifer Mayo](https://www.jennifer-mayo.com/) and [Carl McPherson](https://carlmcpherson.github.io/))</small><br />
+<small>(with [Stephanie Karol](https://www.stephanie-a-karol.com/), [Jennifer Mayo](https://www.jennifer-mayo.com/) and [Carl McPherson](https://carlmcpherson.github.io/))</small><br />
+
+**Inventors and the Unemployment Insurance System**<br />
+<small>(with [Alex Bell](https://alexbell.net/), [Roozbeh Moghadam](https://www.roozbehfmoghadam.com/), [Swapnil Motghare](https://swapnil-motghare.github.io/), and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))</small><br />
 
 <!--**Tax Policy and Business Entry**<br />
 <small>(with [Tobey Kass](https://sites.google.com/umn.edu/tobeykass/home), [Dustin Swonder](https://dustinswonder.github.io/), and [Ian Sapollnik](https://economics.mit.edu/people/phd-students/ian-sapollnik)</small><br />-->
