@@ -65,6 +65,8 @@ We study the joint effects of the tax system, government transfers, and self-ins
 **Inventors and the Unemployment Insurance System**<br />
 <small>(with [Alex Bell](https://alexbell.net/), [Roozbeh Moghadam](https://www.roozbehfmoghadam.com/), [Swapnil Motghare](https://swapnil-motghare.github.io/), and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))</small><br />
 
+**Is There A Revolving Door? Unpacking Earnings Changes After Sectoral Transitions**
+
 <!--**Tax Policy and Business Entry**<br />
 <small>(with [Tobey Kass](https://sites.google.com/umn.edu/tobeykass/home), [Dustin Swonder](https://dustinswonder.github.io/), and [Ian Sapollnik](https://economics.mit.edu/people/phd-students/ian-sapollnik)</small><br />-->
 
