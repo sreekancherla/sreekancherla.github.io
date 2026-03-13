@@ -43,7 +43,6 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 **Inventors and the Unemployment Insurance System**<br />
 <small>(with [Alex Bell](https://alexbell.net/), [Roozbeh Moghadam](https://www.roozbehfmoghadam.com/), [Swapnil Motghare](https://swapnil-motghare.github.io/), and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))</small><br />
-
 <small>[<a href="#/" onclick="visib('abstract_inventors_ui')">Click to View Abstract</a> | [Policy Report][policy_rep_inventors_ui_cpl]] </small>
 
 <div id="abstract_inventors_ui" style="display: none; text-align: justify; line-height: 100%" ><small>
