@@ -41,6 +41,17 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 
 [draft_covid_ui_credit]: </files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf>
 
+**Inventors and the Unemployment Insurance System**<br />
+<small>(with [Alex Bell](https://alexbell.net/), [Roozbeh Moghadam](https://www.roozbehfmoghadam.com/), [Swapnil Motghare](https://swapnil-motghare.github.io/), and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))</small><br />
+
+<small>[<a href="#/" onclick="visib('abstract_inventors_ui')">Click to View Abstract</a> | [Policy Report][policy_rep_inventors_ui_cpl]] </small>
+
+<div id="abstract_inventors_ui" style="display: none; text-align: justify; line-height: 100%" ><small>
+Innovation is a key engine of economic growth. Yet, for the individuals and firms driving it, the path to innovation involves risk. Developing new ideas requires time, effort, and substantial financial investment. When those ideas do not succeed, the costs can fall on the inventor in the form of a job loss. However, public safetynet programs can help cushion these risks. For inventors employed in the private sector, Unemployment Insurance (UI) offers temporary income support during periods of involuntary job loss. However, it is unknown how often inventors utilize UI and what their outcomes are. Do they frequently access the UI program despite being higher-income workers? How does their unemployment experience compare to that of regular UI claimants? This paper examines how inventors interact with the UI program in California. To study this previously unexplored intersection, we link patent filing data with California earnings and UI data. This allows us to build work histories for over 300,000 patent filers employed in California between 2002 and 2021Q1. Among these, we identify more than 50,000 inventors who filed a patent before claiming UI, whom we define as inventor-claimants. We then show the demographics, industry, and UI experiences of these inventor-claimants, and their labor market outcomes after they apply for UI.
+</small><br><br/></div>
+
+[policy_rep_inventors_ui_cpl]: </https://capolicylab.org/wp-content/uploads/2026/03/Inventors-and-Unemployment-Insurance.pdf>
+
 ## Selected Work in Progress
 
 **The Scope, Causes, and Consequences of Worker Misclassification: Evidence from Randomized Tax Audits**<br />
@@ -62,19 +73,7 @@ We study the joint effects of the tax system, government transfers, and self-ins
 **Reassessing the Nonprofit Earnings Penalty**<br />
 <small>(with [Stephanie Karol](https://www.stephanie-a-karol.com/), [Jennifer Mayo](https://www.jennifer-mayo.com/) and [Carl McPherson](https://carlmcpherson.github.io/))</small><br />
 
-**Inventors and the Unemployment Insurance System**<br />
-<small>(with [Alex Bell](https://alexbell.net/), [Roozbeh Moghadam](https://www.roozbehfmoghadam.com/), [Swapnil Motghare](https://swapnil-motghare.github.io/), and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))</small><br />
-
 **Unpacking Earnings Changes After Sectoral Transitions**
-
-<!--**Tax Policy and Business Entry**<br />
-<small>(with [Tobey Kass](https://sites.google.com/umn.edu/tobeykass/home), [Dustin Swonder](https://dustinswonder.github.io/), and [Ian Sapollnik](https://economics.mit.edu/people/phd-students/ian-sapollnik)</small><br />-->
-
-<!--**The Educational Effects of Financial Aid: Evidence from the Texas FAFSA Mandate** (with Nick Gebbia and Ale Marchetti-Bowick)-->
-  
-<!--**Independent Contracting And Earnings Volatility** (with [Jesse Rothstein](https://eml.berkeley.edu/~jrothst/) and [Till von Wachter](http://www.econ.ucla.edu/tvwachter/))-->
-
-<!--**The Disposition Effect and the Character of Reference Dependence: Theory and Evidence** (with [Youssef Benzarti](https://www.benzarti.com/), [Alex Gelber](https://users.nber.org/~agelber/), [Daniel Reck](https://www.danreck.com/), [Alisa Tazhitinova](https://alisatns.weebly.com/), and [Pat Langetieg](https://www.nber.org/people/patrick_langetieg))-->
 
 [//]: This java script is the button to show abstract
  <script>
