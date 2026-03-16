@@ -49,7 +49,7 @@ To what extent does unemployment insurance (UI) attenuate aggregate financial re
 Innovation is a key engine of economic growth. Yet, for the individuals and firms driving it, the path to innovation involves risk. Developing new ideas requires time, effort, and substantial financial investment. When those ideas do not succeed, the costs can fall on the inventor in the form of a job loss. However, public safetynet programs can help cushion these risks. For inventors employed in the private sector, Unemployment Insurance (UI) offers temporary income support during periods of involuntary job loss. However, it is unknown how often inventors utilize UI and what their outcomes are. Do they frequently access the UI program despite being higher-income workers? How does their unemployment experience compare to that of regular UI claimants? This paper examines how inventors interact with the UI program in California. To study this previously unexplored intersection, we link patent filing data with California earnings and UI data. This allows us to build work histories for over 300,000 patent filers employed in California between 2002 and 2021Q1. Among these, we identify more than 50,000 inventors who filed a patent before claiming UI, whom we define as inventor-claimants. We then show the demographics, industry, and UI experiences of these inventor-claimants, and their labor market outcomes after they apply for UI.
 </small><br><br/></div>
 
-[policy_rep_inventors_ui_cpl]: </https://capolicylab.org/wp-content/uploads/2026/03/Inventors-and-Unemployment-Insurance.pdf>
+[policy_rep_inventors_ui_cpl]: <https://capolicylab.org/wp-content/uploads/2026/03/Inventors-and-Unemployment-Insurance.pdf>
 
 ## Selected Work in Progress
 
