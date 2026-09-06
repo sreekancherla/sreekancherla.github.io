@@ -9,6 +9,6 @@ redirect_from:
 
 <img class="img-responsive" style="float: left; margin-right: 20px;" src="/images/sree_2023_0617_far_cropped2.jpg" width="55%" alt="A photo of Sreeraahul Kancherla">
 
-I am a Financial Economist at the US Treasury's Office of Tax Analysis. My research generally analyzes ways in which the US tax, transfer, and social insurance system has shaped income, inequality, and labor market dynamics. My current projects focus on job search and unemployment, capital gains taxation, tax enforcement, and independent contracting.
+I am a Financial Economist at the US Treasury's Office of Tax Analysis. My research generally analyzes ways in which the US tax, transfer, and social insurance system has shaped income, inequality, and labor market dynamics. My current projects focus on US worker-firm earnings dynamics, job search and unemployment, capital gains taxation, tax enforcement, and earnings implications of independent contracting relationships.
 
-Click [here](/files/srk_cv.pdf) for my CV (last update: Sept 2025). 
+Click [here](/files/srk_cv.pdf) for my CV (last update: Sept 2026). 
